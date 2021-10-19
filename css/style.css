@@ -11,6 +11,30 @@
 	--theme-thumb-ratio: 10 / 16 ; /* Customize card thumb ratio here  */
 }
 
+@import "compass/css3";
+
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+
+/* Colors */
+
+$dk-blue: #1E83AE;
+$blue: #3D5B94;
+$light-blue: #3DACDD;
+$green: #6dcd9a;
+$social-size: 1.2em;
+$social-width: 20%;
+
+* {
+  margin: 0;
+  padding: 0;
+  @include box-sizing(border-box);
+}
+
+html, body {
+  font-family: Raleway, sans-serif;  
+  background-color: #fff;
+}
+
 footer {
   width: 100%;
   display: inline-block;
