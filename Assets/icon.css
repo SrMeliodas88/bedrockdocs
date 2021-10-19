@@ -1,0 +1,8 @@
+.social-icon { display: inline-block; }
+.social-icon ul {display:flex;list-style:none; text-decoration:none;padding-left: 0; margin: 0;}
+.social-icon img{width: 25px; height: 25px; opacity: 1;filter: grayscale(100%);}
+.social-icon img:hover{ opacity: 1;cursor: pointer;}
+.pn:hover{filter:hue-rotate(-2deg);}.ig:hover {filter: hue-rotate(-20deg);}
+.fb:hover{filter:hue-rotate(-122deg);}.tw:hover {filter: hue-rotate(-163deg);}
+.in:hover{filter:hue-rotate(-166deg);} .yt:hover {filter: grayscale(100%);}
+/*.icon-btn img{filter: brightness(10%);width: 20px; height: 20px;}*/
