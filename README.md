@@ -1,5 +1,6 @@
 # bedrockdocs
 Minecraft Bedrock Edition Documentation Page
-#Pagina:
+
+# Page:
 
 https://srmeliodas88.github.io/bedrockdocs/
